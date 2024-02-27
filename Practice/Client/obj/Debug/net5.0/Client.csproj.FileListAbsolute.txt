@@ -1,0 +1,16 @@
+C:\Users\Oksana\RiderProjects\Client\bin\Debug\net5.0\Client.exe
+C:\Users\Oksana\RiderProjects\Client\bin\Debug\net5.0\Client.deps.json
+C:\Users\Oksana\RiderProjects\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+C:\Users\Oksana\RiderProjects\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+C:\Users\Oksana\RiderProjects\Client\bin\Debug\net5.0\Client.dll
+C:\Users\Oksana\RiderProjects\Client\bin\Debug\net5.0\Client.pdb
+C:\Users\Oksana\RiderProjects\Client\obj\Debug\net5.0\Client.csproj.AssemblyReference.cache
+C:\Users\Oksana\RiderProjects\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oksana\RiderProjects\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+C:\Users\Oksana\RiderProjects\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+C:\Users\Oksana\RiderProjects\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Oksana\RiderProjects\Client\obj\Debug\net5.0\Client.dll
+C:\Users\Oksana\RiderProjects\Client\obj\Debug\net5.0\refint\Client.dll
+C:\Users\Oksana\RiderProjects\Client\obj\Debug\net5.0\Client.pdb
+C:\Users\Oksana\RiderProjects\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
+C:\Users\Oksana\RiderProjects\Client\obj\Debug\net5.0\ref\Client.dll

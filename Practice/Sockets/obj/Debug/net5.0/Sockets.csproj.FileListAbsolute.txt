@@ -1,0 +1,16 @@
+C:\Users\Oksana\RiderProjects\Sockets\bin\Debug\net5.0\Sockets.exe
+C:\Users\Oksana\RiderProjects\Sockets\bin\Debug\net5.0\Sockets.deps.json
+C:\Users\Oksana\RiderProjects\Sockets\bin\Debug\net5.0\Sockets.runtimeconfig.json
+C:\Users\Oksana\RiderProjects\Sockets\bin\Debug\net5.0\Sockets.runtimeconfig.dev.json
+C:\Users\Oksana\RiderProjects\Sockets\bin\Debug\net5.0\Sockets.dll
+C:\Users\Oksana\RiderProjects\Sockets\bin\Debug\net5.0\Sockets.pdb
+C:\Users\Oksana\RiderProjects\Sockets\obj\Debug\net5.0\Sockets.csproj.AssemblyReference.cache
+C:\Users\Oksana\RiderProjects\Sockets\obj\Debug\net5.0\Sockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oksana\RiderProjects\Sockets\obj\Debug\net5.0\Sockets.AssemblyInfoInputs.cache
+C:\Users\Oksana\RiderProjects\Sockets\obj\Debug\net5.0\Sockets.AssemblyInfo.cs
+C:\Users\Oksana\RiderProjects\Sockets\obj\Debug\net5.0\Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Oksana\RiderProjects\Sockets\obj\Debug\net5.0\Sockets.dll
+C:\Users\Oksana\RiderProjects\Sockets\obj\Debug\net5.0\refint\Sockets.dll
+C:\Users\Oksana\RiderProjects\Sockets\obj\Debug\net5.0\Sockets.pdb
+C:\Users\Oksana\RiderProjects\Sockets\obj\Debug\net5.0\Sockets.genruntimeconfig.cache
+C:\Users\Oksana\RiderProjects\Sockets\obj\Debug\net5.0\ref\Sockets.dll
